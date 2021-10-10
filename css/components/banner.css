@@ -1,0 +1,9 @@
+.banner {
+  background-image: url(./../../images/background.png);
+  background-size: cover;
+  height: 300px;
+  background-position: center;
+  align-items: center;
+  padding: 100px 0px;
+  color: white;
+}
